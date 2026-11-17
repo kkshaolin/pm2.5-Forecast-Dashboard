@@ -136,7 +136,7 @@ python app.py
 
 ## Results
 
-![PM Forecast Dashboard](image\result.jpg)
+![PM Forecast Dashboard](image/result.jpg)
 
 ## แนวทางพัฒนาต่อ
 
